@@ -35,3 +35,33 @@ Definitions and Explanations for the Basics:
 * Label all of the parts of the following JavaScript statement:
 ```js
   let x = 1 + 1;
+
+
+  // 1. Declare a variable called x, assign the value 42 to x
+    let x = 42;
+
+// 2. Log the identifier x
+    console.log(x);
+
+// 3. Declare a variable called y, assign the variable y the expression of two literal values of 1 added together
+    let y = 1 + 1; 
+
+// 4. Write a statement that declares a variable called happy, assign the variable the literal value true
+    let happy = true;
+
+// 5. Define a variable called days, assign the literal value 5 to it
+    let days = 5;
+
+// 6. Define a variable called hoursPerDay, assign the literal value 8 to it
+    let hoursPerDay = 8;    
+
+// 7. Define a variable called rate, assign the literal value 35.50 to it
+    let rate = 35.50;
+
+// 8. Define a variable called pay, assign the multiplication of the days, hoursPerDay and rate identifiers to the pay identifier
+    let pay = days * hoursPerDay * rate;
+
+// 9. Log the pay identifier
+    console.log(pay)
+
+// 10. Say all of the code above out loud, using vocab words, without reading the comments.
