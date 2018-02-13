@@ -2,6 +2,27 @@
 Definitions and Explanations for the Basics:
 
 * A variable is a way to store a data type for later use in your program. Variables have names!
+* Define an API
+    * Application Programming Interface
+        * DOM
+    * Web API - an API accessible over the HTTP protocol 
+        * Over the internet
+        * Typically has a database behind the scenes
+* List many commonly used Web APIs
+    * Weather
+    * Facebook, Twitter, Reddit, Google Maps
+    * Dictionary
+    * Government Data, Census
+* Read the docs of an API
+* Make a request to an API with Postman
+* To make a request with JS use fetch
+
+
+* BUCKET TWO PROJECT REQUIREMENTS:
+* NO Authentification
+* Does it require an API key? If so, request it now!!
+* Does it support CORS?
+* Can I request it from Postman?
 
 
 * Define the following words and give at least 3 examples of each:
