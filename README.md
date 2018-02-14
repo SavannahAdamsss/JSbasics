@@ -1,6 +1,19 @@
 # JSbasics
 Definitions and Explanations for the Basics:
 
+DOM Stuff:
+
+* // Getting the element with the given id
+// There will be only one
+let title = document.getElementById('title');
+title = document.getElementsByClassName('title')[0];
+title = document.getElementsByTagName('h1')[0];
+title = document.getElementsByName('title')[0];
+title = document.querySelector('#title'); // any valid css selector
+title = document.querySelectorAll('h1')[0];  // any valid css selector
+
+
+
 * A variable is a way to store a data type for later use in your program. Variables have names!
 * Define an API
     * Application Programming Interface
